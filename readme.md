@@ -1,7 +1,7 @@
 # Hey, there. I'm Tim 👋
 
-- 👨‍💻 working at [https://github.com/instacart](@instacart)
-- 🧙‍♂️ hacking on projects at [https://github.com/conjurelabs](@conjurelabs)
-- 📷 instagram: [https://instagram.com/marshall/](@marshall)
-- 🐦 twitter: [https://twitter.com/timothymarshall](@timothymarshall)
-- 👔 linkedin: [https://www.linkedin.com/in/timothyjmarshall/](@timothyjmarshall)
+- 👨‍💻 working at [@instacart](https://github.com/instacart)
+- 🧙‍♂️ hacking on projects at [@conjurelabs](https://github.com/conjurelabs)
+- 📷 instagram: [@marshall](https://instagram.com/marshall/)
+- 🐦 twitter: [@timothymarshall](https://twitter.com/timothymarshall)
+- 👔 linkedin: [@timothyjmarshall](https://www.linkedin.com/in/timothyjmarshall/)
