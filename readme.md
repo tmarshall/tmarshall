@@ -24,8 +24,3 @@
     </tr>
   </tbody>
 </table>
-
-## Gists
-
-<sub>September 24, 2020</sub><br />
-[Lazy Template Files in JavaScript](https://gist.github.com/tmarshall/fc573b39875b1360c65197125e5a92fb)
