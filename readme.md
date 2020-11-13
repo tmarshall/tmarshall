@@ -1,5 +1,7 @@
 <img src=https://media2.giphy.com/media/A3DIlSNmo36x2/giphy.gif width=227 />
 
+#### about me
+
 <table>
   <tbody>
     <tr>
@@ -21,6 +23,25 @@
     <tr>
       <td>linkedin</td>
       <td><a href='https://www.linkedin.com/in/timothyjmarshall/'>timothyjmarshall</td>
+    </tr>
+  </tbody>
+</table>
+
+#### (some) previous work
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/instacart'>@instacart</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/bettervu'>@bettervu</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/madisonreed'>@madisonreed</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/facebook'>@facebook</td>
     </tr>
   </tbody>
 </table>
