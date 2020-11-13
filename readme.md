@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td>work</td>
-      <td><a href='https://github.com/instacart'>@instacart</td>
+      <td><a href='https://github.com/datagravity-ai'>@datagravity-ai</td>
     </tr>
     <tr>
       <td>projects</td>
